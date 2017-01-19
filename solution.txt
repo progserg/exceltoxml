@@ -4,3 +4,5 @@
 index.php - страница, с которой работает пользователь
 downloadFile.php - указывает браузеру, что файл нужно скачать, а не открыть
 Для правильной работы на сервере могут понадобиться права на запись.
+исходники на github: https://github.com/progserg/exceltoxml
+проверить работу http://progserg.dlinkddns.com:200/index.php
